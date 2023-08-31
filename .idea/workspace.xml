@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="789f7b2e-47ba-41a3-b922-3087600842c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/introducao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversaoTemperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leitura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiraClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adivinhacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OutroLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -41,26 +37,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Santinha/IdeaProjects/introducao",
-    "onboarding.tips.debug.path": "C:/Users/Santinha/IdeaProjects/introducao/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Santinha/IdeaProjects/introducao&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Santinha/IdeaProjects/introducao/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Leitura">
-    <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Condicional" />
-      <module name="introducao" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConversaoTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConversaoTemperatura" />
+}</component>
+  <component name="RunManager" selected="Application.Adivinhacao">
+    <configuration name="Adivinhacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adivinhacao" />
       <module name="introducao" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,6 +62,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop" />
+      <module name="introducao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="introducao" />
@@ -80,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeiraClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeiraClasse" />
+    <configuration name="OutroLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OutroLoop" />
       <module name="introducao" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Leitura" />
-        <item itemvalue="Application.Condicional" />
+        <item itemvalue="Application.Adivinhacao" />
+        <item itemvalue="Application.OutroLoop" />
+        <item itemvalue="Application.Loop" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ConversaoTemperatura" />
-        <item itemvalue="Application.PrimeiraClasse" />
+        <item itemvalue="Application.Leitura" />
       </list>
     </recent_temporary>
   </component>
